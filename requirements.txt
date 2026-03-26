@@ -1,2 +1,0 @@
-flask>=2.3.0
-pyzipper>=0.3.6
