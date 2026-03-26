@@ -1,0 +1,4 @@
+flask==2.3.0
+pyzipper==0.3.6
+requests==2.28.2
+gunicorn==21.2.0
